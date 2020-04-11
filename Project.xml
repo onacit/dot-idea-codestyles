@@ -26,6 +26,7 @@
       <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
       <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
       <option name="WRAP_COMMENTS" value="true" />
+      <option name="VARIABLE_ANNOTATION_WRAP" value="1" />
     </codeStyleSettings>
     <codeStyleSettings language="XML">
       <indentOptions>
