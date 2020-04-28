@@ -2,6 +2,19 @@
 
 `.idea/codeStyles` 를 공유하기 위한 모듈입니다.
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+**Table of Contents**
+
+- [tour-dot-idea-codestyles](#tour-dot-idea-codestyles)
+    - [아직 `.gitmodules` 에 추가되어 있지 않다면](#아직-gitmodules-에-추가되어-있지-않다면)
+        - [`.idea` 디렉토리가 `.gitignore` 에 추가되어 있다면](#idea-디렉토리가-gitignore-에-추가되어-있다면)
+    - [이미 `.gitmodules` 에 추가되어 있다면](#이미-gitmodules-에-추가되어-있다면)
+        - [이미 `.idea/codeStyles` 디렉토리가 존재한다고 에러가 뜨면](#이미-ideacodestyles-디렉토리가-존재한다고-에러가-뜨면)
+    - [IntelliJ IDEA 를 새로 띄워야 적용됩니다.](#intellij-idea-를-새로-띄워야-적용됩니다)
+
+<!-- markdown-toc end -->
+
+
 ----
 ## 아직 `.gitmodules` 에 추가되어 있지 않다면
 
