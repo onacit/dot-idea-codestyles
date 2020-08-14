@@ -1,12 +1,12 @@
 # tour-dot-idea-codestyles
 
 `.idea/codeStyles` 를 공유하기 위한 모듈입니다.
+아래 주소에서 `bitbucket`|`statsh` 는 현재 module 을 기준으로 바꿔서 사용하세요.
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
 
 - [tour-dot-idea-codestyles](#tour-dot-idea-codestyles)
-    - [아래 주소에서 `bitbucket`|`statsh` 는 현재 module 을 기준으로 바꿔서 사용하세요.](#아래-주소에서-bitbucketstatsh-는-현재-module-을-기준으로-바꿔서-사용하세요)
     - [아직 `.gitmodules` 에 추가되어 있지 않다면](#아직-gitmodules-에-추가되어-있지-않다면)
         - [`.idea` 디렉토리가 `.gitignore` 에 추가되어 있다면](#idea-디렉토리가-gitignore-에-추가되어-있다면)
     - [이미 `.gitmodules` 에 추가되어 있다면](#이미-gitmodules-에-추가되어-있다면)
@@ -17,8 +17,6 @@
 
 
 ----
-## 아래 주소에서 `bitbucket`|`statsh` 는 현재 module 을 기준으로 바꿔서 사용하세요.
-
 ## 아직 `.gitmodules` 에 추가되어 있지 않다면
 
 ```
