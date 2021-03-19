@@ -45,6 +45,7 @@ $ rm -rf .idea/codeStyles
 $ git submodule init && git submodule update
 ```
 
+----
 ## IntelliJ IDEA 를 새로 띄워야 적용됩니다.
 
 해당 프로젝트 창만 새로 띄우면 됩니다.
