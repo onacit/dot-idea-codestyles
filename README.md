@@ -20,13 +20,13 @@
 특정 모듈에서 처음으로 submodule 을 추가하는 방법입니다.
 
 ```
-$ git submodule add https://stash.wemakeprice.com/scm/etc/dot-idea-codestyles.git .idea/codeStyles
+$ git submodule add <url> .idea/codeStyles
 ```
 
 (`.idea` 가 이미 `.gitignore` 파일에 추가되어 있어서) 할 수 없다고 뜨면 `add` 뒤에 `-f` 를 붙이시면 됩니다.
 
 ```
-$ git submodule add -f https://stash.wemakeprice.com/scm/etc/dot-idea-codestyles.git .idea/codeStyles
+$ git submodule add -f <url> .idea/codeStyles
 ```
 
 ----
