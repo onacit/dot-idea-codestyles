@@ -27,6 +27,8 @@
     <JavaCodeStyleSettings>
       <option name="ANNOTATION_PARAMETER_WRAP" value="1" />
       <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
+      <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="128" />
+      <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="128" />
     </JavaCodeStyleSettings>
     <ScalaCodeStyleSettings>
       <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
@@ -54,6 +56,7 @@
       <option name="THROWS_KEYWORD_WRAP" value="1" />
       <option name="METHOD_CALL_CHAIN_WRAP" value="1" />
       <option name="WRAP_COMMENTS" value="true" />
+      <option name="PARAMETER_ANNOTATION_WRAP" value="1" />
       <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
     </codeStyleSettings>
     <codeStyleSettings language="XML">
