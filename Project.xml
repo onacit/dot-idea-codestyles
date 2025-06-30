@@ -26,7 +26,7 @@
       <option name="THROWS_KEYWORD_WRAP" value="1" />
       <option name="BINARY_OPERATION_WRAP" value="1" />
       <option name="WRAP_COMMENTS" value="true" />
-      <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
+      <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
     </codeStyleSettings>
     <codeStyleSettings language="XML">
       <indentOptions>
