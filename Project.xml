@@ -8,6 +8,9 @@
       <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="128" />
       <option name="JD_INDENT_ON_CONTINUATION" value="true" />
     </JavaCodeStyleSettings>
+    <XML>
+      <option name="XML_TEXT_WRAP" value="0" />
+    </XML>
     <codeStyleSettings language="JAVA">
       <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
       <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
